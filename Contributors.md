@@ -1,4 +1,5 @@
 # Contributors
+  [Avi Srivastava] (https://github.com/AStream26)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Shihaan](https://github.com/theneoterik)
