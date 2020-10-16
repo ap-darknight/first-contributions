@@ -196,6 +196,7 @@
 - [Codrean Svetlana] (https://github.com/svetlanacodrean)
 - [Mohammed Bajuaifer](https://github.com/MohammedBajuaifer)
 - [Advitiay Anand](https://github.com/adizcode)
+- [Astream26](https://github.com/adizcode)
 - [Ankit Podder](https://github.com/ANKITPODDER2000)
 - [Jessica Rairigh] (https://github.com/jfrairigh)
 - [William Pabitero] (https://github.com/WillPabs)
